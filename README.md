@@ -17,7 +17,7 @@
 | Birthday  | `6th of January !`    |
 | Favorite color | `Pink!`    |
 | Favorite food     | `Pizza or pasta, I can't decide wich one`    |
-| Pineapple in pizza | -[] YES -[x] Noooo|
+| Pineapple in pizza | <ul><li>- [ ] Yes</li><li>- [X] Nooo</li></ul>|
 ---
 ## Hobbies ##
 
@@ -43,7 +43,7 @@
 
 I'am a master at being clumsy 🫣
 
-For example, I stayed 3 hours without noticing that my glasses were missing a lens, it is because it is not a corrective lens but a blue one.
+For example, I stayed 3 hours without noticing that my glasses were missing a lens, it is because it is not a corrective lens but a blue loght protecter one.
  
  #### TL;DR ####
 
