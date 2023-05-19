@@ -49,5 +49,5 @@ For example, I stayed 3 hours without noticing that my glasses were missing a le
 
 
 
-<< [Nicolas](https://www.example.com) || PAULINE NEUVILLE || [Pietro](https://www.example.com) >>
+<< [Nicolas](https://www.example.com) || PAULINE NEUVILLE || [Pietro](https://github.com/Otto1808/Becode/blob/main/README.md) >>
 
