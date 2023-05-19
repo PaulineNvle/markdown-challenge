@@ -7,7 +7,7 @@
 
 <img src= IMG_7848.jpeg alt="Photo plus ou moins pro de Pauline Neuville" width="200">
 
-### I think that I am a willing participant, passionate about what I do and diligent in my work :nerd:. ###
+### I think that I am a willing participant, passionate about what I do and diligent in my work 🤓. ###
  ### I really love teamwork but I do appreciate working in the calm for my personnal concentration. ###
 
  ---
@@ -41,7 +41,7 @@
 ---
 ### A funny story ###
 
-I'am a master at being clumsy. :face_with_peeking_eye:
+I'am a master at being clumsy. 🫣
 
 For example, I stayed 3 hours without noticing that my glasses were missing a lens, it is because it is not a corrective lens but a blue one.
  
