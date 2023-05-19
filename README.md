@@ -2,7 +2,7 @@
 ---
 
  > *"Chaque difficulté rencontrée doit être l’occasion d’un nouveau progrès"* 
-    >>  **Pierre de Coubertin**
+    **Pierre de Coubertin**
 
 
 <img src= IMG_7848.jpeg alt="Photo plus ou moins pro de Pauline Neuville" width="200">
