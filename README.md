@@ -14,8 +14,8 @@
 
 | QUESTION     | ANSWER |
 | :--------: | :-------:|
-| Birthday  | `'6th of January !'`    |
-| Favorite color | `"Pink!"`    |
+| Birthday  | `6th of January !`    |
+| Favorite color | `Pink!`    |
 | Favorite food     | `Pizza or pasta, I can't decide wich one`    |
 | Pineapple in pizza | -[ ] Yes    -[X] NOOO    |
 ---
