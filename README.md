@@ -45,7 +45,6 @@ I'am a master at being clumsy 🫣
 
 For example, I stayed 3 hours without noticing that my glasses were missing a lens, it is because it is not a corrective lens but a blue loght protecter one.
  
- #### TL;DR ####
 
 
 
